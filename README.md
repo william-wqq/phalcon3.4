@@ -1,5 +1,5 @@
-# phalcon7
-Phalcon7 是继承自 Phalcon 1.3.x，开源、全功能栈、使用 C 编写、针对 PHP 7 优化的高性能框架。
+# phalcon3.4
+Phalcon 是开源、全功能栈、使用 C 编写、针对 PHP 优化的高性能框架。
 
 # 访问
 http://49.4.6.174:89/
